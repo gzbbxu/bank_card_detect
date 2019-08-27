@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="camera_container_origin_data_size">150.0000dp</dimen>
+    <dimen name="camera_container_switch_padding">7.5000dp</dimen>
+</resources>
